@@ -6,6 +6,8 @@ Terdapat beberapa menu yang ada pada Web Online Portfolio ini yaitu : Home, Abou
 
 Next Plan : Akan dibuat isi dari beberapa menu yang saat ini masih kosong
 
+Hasil deploy dapat di lihat pada link berikut : https://online-portfolio-mellani.vercel.app/
+
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
